@@ -17,6 +17,7 @@ int main()
 
     result.get(); //if u use std ddeferred then thread starts here
 
-    std::cout << "someFunction() returned" << std::endl;
+    std::cout << "someFunction() returned " << std::endl;
+
     return 0;
 }
