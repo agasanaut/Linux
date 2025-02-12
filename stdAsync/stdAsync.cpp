@@ -7,7 +7,7 @@ using namespace std;
 
 
 
-int   someFunction(int a , int b)
+int someFunction(int a , int b)
 {
     std::cout << "someFunction() called" << std::endl;
     usleep(2000000);
