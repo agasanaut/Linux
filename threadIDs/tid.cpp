@@ -36,3 +36,7 @@ int main() {
     t2.join();
     return 0;
 }
+// https://github.com/agasanaut/Linux/blob/main/threadIDs/tid.cpp
+//example
+//tejus@tejusAI:~$ cat /proc/20817/task/20823/comm 
+//threadfunc2
